@@ -1,0 +1,159 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+.main_container{
+	position: relative;
+}
+
+body{
+
+	background: url(../../images/img_background.jpg);
+}
+h1{
+	font-size: 28px;
+	font-family: "Times New Roman";
+	margin: 25px 0px;
+
+}
+
+p{
+	font-size: 16px;
+	font-family: "Times New Roman";
+}
+
+.main_container{
+	width: 900px;
+	background-color: white;
+	border-radius: 10px;
+
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+header, footer {
+	width: 100%;
+	height: 45px;
+	background-color: #31420b;
+	border-radius: 10px;
+	
+	padding: 10px 10px;
+
+	color: white;
+	font-size: 18px;
+	font-family: "Times New Roman";
+}
+
+
+main{
+	
+	height: auto;
+	
+	padding: 15px 15px 30px;
+	margin-right: 300px;
+}
+
+.contact_nav_container{
+	float: right;
+	
+	width: 300px;
+	height: auto;
+	font-size: 18px;
+
+}
+
+.main_content{
+	width: 100%;
+}
+.logo_text{
+	display: inline-block;
+	padding-top: 20px;
+	text-align: center;
+	width: 250px;
+	height: 210px;
+}
+.img_logo{
+	float: left;
+}
+.text_heroes{
+	display: inline-block;
+	font-family: "Times New Roman";
+	font-size: 50px;
+}
+
+.text_of_might_and_magic{
+	display: inline-block;
+	font-family: "Times New Roman";
+	font-size: 24px;
+}
+
+.text_3{
+	display: inline-block;
+	font-family: "Times New Roman";
+	font-size: 64px;
+}
+
+.img_main{
+	width: 100%;
+	height: auto;
+}
+
+.contact {
+	text-align: right;
+}
+
+.contact ul{
+	list-style: none;
+	padding: 5px 15px 30px;
+}
+
+
+.contact ul li{
+	padding: 10px;
+}
+
+.nav_span{
+	width: 100%;
+	display: block;
+	background: #31420b;
+	padding: 7px 15px;
+	margin: 20px 0px;
+	
+
+}
+
+.nav_span span{
+	color: white;
+	font-size: 22px;
+
+}
+
+nav ul li{
+	list-style: none;
+	padding: 8px 15px;
+}
+
+
+
+.mail{
+	float: right;
+}
+
+.text_footer{
+	display: inline-block;
+	
+
+}
+
+a{
+	color: #577613;
+}
+
+a:hover{
+	color: #8bbd1d;
+}
+
+
